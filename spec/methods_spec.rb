@@ -1,5 +1,5 @@
 require_relative 'spec_helper'
-require_relative '../methods'
+require_relative '../methods.rb'
 
 describe '#greet_programmer' do
 
